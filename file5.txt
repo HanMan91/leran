@@ -1,4 +1,8 @@
 yoyo
 mann
 yobrooo
+<<<<<<< HEAD
 hjhjhkkh
+=======
+hello  manann
+>>>>>>> new-branch
